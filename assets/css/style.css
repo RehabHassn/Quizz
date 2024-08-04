@@ -1,0 +1,92 @@
+.gray{
+    color:gray ;
+}
+.dark{
+    color: #0f0f10;
+}
+.span2{
+    color: #e14f4f;
+    font-style:oblique;
+}
+.align-item{
+    align-items: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.main .container {
+    margin: 200px;
+   
+}
+.main .container .div1 p{
+    padding-left: 490px;
+    font-size: large;
+
+
+    
+}
+.main .container .div1 i{
+    font-size: 25px;
+    padding-left: 535px;
+}
+.main .container .div2 h3{
+    font-size:xx-large;
+  
+    padding-left: 450px;
+}
+.main .container .div3 p{
+    font-size: x-large;
+    width: 630px;
+    margin: auto;
+}
+.div4 img{
+    margin-top: 60px;
+    width: 800px;
+    border-radius: 50px;
+
+}
+.div4 video{
+    background-image:url('imge/pizza.png');
+}
+/* --------------------------End of section one-------------------------------------- */
+
+/* -------------------Start of srction one --------------------------------------- */
+.section2{
+    background-color: #e14f4f;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.section2 .info{
+    padding-left: 190px;
+    padding-top: 68px;
+}
+.section2 .info h3{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section2 .info p{
+    color:#ecf5f7;
+}
+.section2 .info img{
+    width: 163px;
+
+}
+.myForm{
+    margin: auto;
+    padding-left: 50px;
+    background-color: #0f0f10;
+    width: 500px
+
+}
+.white{
+    color: white;
+}
+.section2 .title {
+    padding-left: 90px;
+}
+.section2 .myForm .form-group p{
+color: white;
+font-size: larger;
+}
+/* --------------------------End of section two ---------------------------------------- */
